@@ -1,6 +1,6 @@
 from tkinter import *
  
-root = Tk()
+ root = Tk()
  
 but = Button(root,
           text="It is a button", # text on the button
